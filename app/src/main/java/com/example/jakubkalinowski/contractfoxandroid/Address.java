@@ -1,5 +1,5 @@
 package com.example.jakubkalinowski.contractfoxandroid;
-
+//hi
 public class Address {
     private String mStreetAddress;
     private String mCity;
